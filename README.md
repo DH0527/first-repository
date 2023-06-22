@@ -2,6 +2,8 @@
 
 Hello Git...
 ## git config
-add new contents
+add new contents 
 
-test credential
+test credential 
+
+practice fork and pull-request
